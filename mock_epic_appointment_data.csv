@@ -1,0 +1,201 @@
+patient_id,provider_name,department,appointment_date,scheduled_time,check_in_time,check_out_time,no_show,appointment_type
+PT0001,Dr. Patel,Neurology,6/22/2025,9:30:00,9:38:00,9:55:00,0,New Patient
+PT0002,Dr. Smith,Oncology,6/30/2025,11:15:00,11:36:00,12:12:00,0,Procedure
+PT0003,Dr. Lee,Oncology,6/19/2025,13:00:00,13:17:00,13:42:00,0,Follow-up
+PT0004,Dr. Smith,Neurology,6/29/2025,14:00:00,,,1,Follow-up
+PT0005,Dr. Johnson,Oncology,6/24/2025,14:15:00,14:17:00,15:11:00,0,Follow-up
+PT0006,Dr. Patel,Cardiology,7/1/2025,15:15:00,15:39:00,16:00:00,0,Procedure
+PT0007,Dr. Lee,Neurology,6/20/2025,14:30:00,14:59:00,15:15:00,0,Routine Check
+PT0008,Dr. Patel,Family Medicine,7/1/2025,15:00:00,15:20:00,15:33:00,0,New Patient
+PT0009,Dr. Patel,Family Medicine,6/19/2025,12:45:00,,,1,Follow-up
+PT0010,Dr. Patel,Cardiology,6/25/2025,10:00:00,9:53:00,10:22:00,0,Procedure
+PT0011,Dr. Lee,Neurology,6/23/2025,14:00:00,14:24:00,14:51:00,0,Follow-up
+PT0012,Dr. Johnson,Family Medicine,6/20/2025,8:15:00,8:43:00,9:10:00,0,New Patient
+PT0013,Dr. Johnson,Neurology,6/20/2025,10:30:00,10:48:00,11:46:00,0,Routine Check
+PT0014,Dr. Patel,Neurology,6/30/2025,11:00:00,11:02:00,11:41:00,0,Routine Check
+PT0015,Dr. Patel,Neurology,6/28/2025,14:00:00,13:53:00,14:17:00,0,New Patient
+PT0016,Dr. Patel,Neurology,6/20/2025,8:15:00,8:09:00,9:09:00,0,New Patient
+PT0017,Dr. Smith,Cardiology,6/22/2025,9:15:00,9:17:00,10:05:00,0,Procedure
+PT0018,Dr. Lee,Family Medicine,6/19/2025,10:30:00,10:40:00,10:56:00,0,Follow-up
+PT0019,Dr. Johnson,Oncology,6/28/2025,8:45:00,9:06:00,10:06:00,0,Procedure
+PT0020,Dr. Johnson,Cardiology,6/30/2025,14:45:00,14:48:00,15:35:00,0,Routine Check
+PT0021,Dr. Lee,Neurology,6/28/2025,12:45:00,12:38:00,12:59:00,0,Follow-up
+PT0022,Dr. Johnson,Oncology,6/26/2025,9:15:00,9:16:00,10:12:00,0,New Patient
+PT0023,Dr. Patel,Cardiology,6/20/2025,12:15:00,12:30:00,13:04:00,0,Follow-up
+PT0024,Dr. Lee,Family Medicine,6/17/2025,10:45:00,11:10:00,12:00:00,0,Follow-up
+PT0025,Dr. Johnson,Family Medicine,6/24/2025,13:45:00,14:03:00,14:22:00,0,Follow-up
+PT0026,Dr. Patel,Neurology,6/20/2025,9:30:00,9:23:00,9:52:00,0,Procedure
+PT0027,Dr. Smith,Neurology,6/30/2025,10:45:00,,,1,New Patient
+PT0028,Dr. Patel,Cardiology,6/24/2025,14:30:00,14:57:00,15:29:00,0,Procedure
+PT0029,Dr. Johnson,Cardiology,6/17/2025,15:45:00,15:35:00,15:55:00,0,New Patient
+PT0030,Dr. Patel,Neurology,6/21/2025,12:15:00,12:31:00,13:19:00,0,Routine Check
+PT0031,Dr. Johnson,Family Medicine,6/28/2025,11:30:00,11:59:00,12:28:00,0,Routine Check
+PT0032,Dr. Lee,Neurology,6/25/2025,12:45:00,13:06:00,13:52:00,0,Follow-up
+PT0033,Dr. Johnson,Neurology,7/1/2025,11:00:00,11:21:00,12:07:00,0,Procedure
+PT0034,Dr. Patel,Oncology,6/27/2025,8:15:00,8:23:00,8:39:00,0,Routine Check
+PT0035,Dr. Patel,Cardiology,6/20/2025,10:45:00,10:45:00,11:13:00,0,Follow-up
+PT0036,Dr. Johnson,Oncology,6/17/2025,9:00:00,9:14:00,9:38:00,0,Procedure
+PT0037,Dr. Smith,Neurology,6/27/2025,8:30:00,8:22:00,8:34:00,0,Follow-up
+PT0038,Dr. Patel,Neurology,6/29/2025,15:30:00,15:21:00,15:35:00,0,New Patient
+PT0039,Dr. Lee,Family Medicine,6/29/2025,13:45:00,14:02:00,14:44:00,0,New Patient
+PT0040,Dr. Patel,Cardiology,6/29/2025,8:45:00,,,1,Procedure
+PT0041,Dr. Smith,Neurology,6/28/2025,11:45:00,11:55:00,12:21:00,0,Procedure
+PT0042,Dr. Johnson,Family Medicine,6/17/2025,8:45:00,9:13:00,10:08:00,0,Procedure
+PT0043,Dr. Smith,Family Medicine,6/18/2025,11:45:00,11:59:00,12:14:00,0,Routine Check
+PT0044,Dr. Lee,Oncology,6/28/2025,15:45:00,,,1,New Patient
+PT0045,Dr. Lee,Oncology,6/24/2025,13:00:00,,,1,Procedure
+PT0046,Dr. Patel,Oncology,6/27/2025,10:00:00,,,1,Procedure
+PT0047,Dr. Johnson,Cardiology,6/29/2025,11:30:00,11:37:00,12:24:00,0,Follow-up
+PT0048,Dr. Smith,Neurology,6/20/2025,11:30:00,,,1,New Patient
+PT0049,Dr. Patel,Family Medicine,7/1/2025,11:45:00,11:40:00,12:11:00,0,Procedure
+PT0050,Dr. Johnson,Oncology,6/26/2025,14:00:00,14:02:00,14:16:00,0,Follow-up
+PT0051,Dr. Johnson,Neurology,6/26/2025,14:30:00,14:20:00,14:39:00,0,Routine Check
+PT0052,Dr. Smith,Family Medicine,7/1/2025,10:45:00,11:00:00,11:19:00,0,Routine Check
+PT0053,Dr. Lee,Cardiology,6/17/2025,14:45:00,15:12:00,15:33:00,0,Procedure
+PT0054,Dr. Patel,Family Medicine,6/25/2025,15:00:00,15:05:00,15:41:00,0,Follow-up
+PT0055,Dr. Lee,Cardiology,6/21/2025,12:45:00,,,1,New Patient
+PT0056,Dr. Johnson,Cardiology,6/21/2025,9:15:00,9:28:00,9:44:00,0,Procedure
+PT0057,Dr. Patel,Cardiology,6/26/2025,9:30:00,9:33:00,10:06:00,0,Procedure
+PT0058,Dr. Patel,Cardiology,6/22/2025,8:15:00,8:43:00,9:14:00,0,Routine Check
+PT0059,Dr. Patel,Neurology,6/21/2025,10:15:00,,,1,Follow-up
+PT0060,Dr. Lee,Cardiology,6/21/2025,14:15:00,14:20:00,14:55:00,0,New Patient
+PT0061,Dr. Smith,Cardiology,6/27/2025,12:45:00,13:05:00,13:29:00,0,Routine Check
+PT0062,Dr. Johnson,Neurology,6/29/2025,15:00:00,,,1,Follow-up
+PT0063,Dr. Patel,Cardiology,7/1/2025,8:30:00,8:34:00,8:44:00,0,Routine Check
+PT0064,Dr. Johnson,Oncology,7/1/2025,13:00:00,12:52:00,13:35:00,0,Routine Check
+PT0065,Dr. Smith,Family Medicine,6/28/2025,11:15:00,11:26:00,11:51:00,0,Routine Check
+PT0066,Dr. Lee,Family Medicine,6/23/2025,15:00:00,,,1,Procedure
+PT0067,Dr. Johnson,Neurology,6/27/2025,13:15:00,13:41:00,13:59:00,0,Procedure
+PT0068,Dr. Smith,Cardiology,6/27/2025,14:45:00,14:37:00,15:05:00,0,New Patient
+PT0069,Dr. Patel,Neurology,6/25/2025,12:00:00,11:50:00,12:28:00,0,Procedure
+PT0070,Dr. Johnson,Oncology,6/21/2025,14:00:00,14:19:00,15:17:00,0,Procedure
+PT0071,Dr. Lee,Cardiology,6/18/2025,8:45:00,9:10:00,10:10:00,0,Procedure
+PT0072,Dr. Johnson,Family Medicine,6/23/2025,13:00:00,13:17:00,14:09:00,0,Procedure
+PT0073,Dr. Lee,Family Medicine,6/17/2025,12:30:00,,,1,Follow-up
+PT0074,Dr. Patel,Oncology,6/25/2025,14:00:00,13:57:00,14:11:00,0,New Patient
+PT0075,Dr. Smith,Neurology,6/19/2025,12:00:00,12:15:00,12:41:00,0,Procedure
+PT0076,Dr. Patel,Neurology,7/1/2025,15:30:00,15:24:00,16:17:00,0,Procedure
+PT0077,Dr. Lee,Oncology,6/29/2025,9:15:00,,,1,New Patient
+PT0078,Dr. Johnson,Cardiology,6/26/2025,8:00:00,7:57:00,8:12:00,0,New Patient
+PT0079,Dr. Patel,Oncology,6/27/2025,12:30:00,12:24:00,12:34:00,0,New Patient
+PT0080,Dr. Lee,Family Medicine,6/17/2025,13:00:00,12:55:00,13:36:00,0,Procedure
+PT0081,Dr. Johnson,Family Medicine,6/25/2025,15:15:00,15:44:00,16:32:00,0,Follow-up
+PT0082,Dr. Patel,Neurology,6/17/2025,13:15:00,13:32:00,13:54:00,0,Routine Check
+PT0083,Dr. Patel,Neurology,6/24/2025,15:30:00,15:35:00,15:58:00,0,Follow-up
+PT0084,Dr. Lee,Neurology,6/23/2025,11:45:00,11:48:00,12:19:00,0,Routine Check
+PT0085,Dr. Smith,Cardiology,6/19/2025,15:15:00,15:43:00,16:38:00,0,New Patient
+PT0086,Dr. Johnson,Cardiology,6/22/2025,9:00:00,9:20:00,10:09:00,0,Procedure
+PT0087,Dr. Johnson,Neurology,6/29/2025,13:30:00,,,1,Follow-up
+PT0088,Dr. Smith,Neurology,6/20/2025,9:15:00,9:31:00,10:22:00,0,Follow-up
+PT0089,Dr. Patel,Neurology,6/28/2025,11:45:00,11:56:00,12:44:00,0,Follow-up
+PT0090,Dr. Johnson,Neurology,6/21/2025,15:45:00,15:57:00,16:56:00,0,Follow-up
+PT0091,Dr. Smith,Oncology,6/20/2025,14:45:00,14:35:00,15:27:00,0,Procedure
+PT0092,Dr. Patel,Oncology,7/1/2025,14:00:00,14:14:00,14:27:00,0,Procedure
+PT0093,Dr. Smith,Neurology,6/21/2025,10:00:00,9:58:00,10:12:00,0,Routine Check
+PT0094,Dr. Patel,Neurology,6/22/2025,8:30:00,8:49:00,9:22:00,0,Routine Check
+PT0095,Dr. Johnson,Oncology,6/18/2025,11:30:00,11:27:00,11:58:00,0,Procedure
+PT0096,Dr. Lee,Cardiology,6/26/2025,14:15:00,14:40:00,15:20:00,0,Procedure
+PT0097,Dr. Smith,Cardiology,6/21/2025,14:30:00,14:40:00,14:53:00,0,Routine Check
+PT0098,Dr. Johnson,Neurology,6/27/2025,12:30:00,12:45:00,13:28:00,0,Procedure
+PT0099,Dr. Lee,Neurology,6/28/2025,10:45:00,10:48:00,11:45:00,0,Procedure
+PT0100,Dr. Smith,Cardiology,6/29/2025,13:30:00,13:47:00,13:57:00,0,New Patient
+PT0101,Dr. Johnson,Family Medicine,6/25/2025,11:30:00,11:46:00,12:33:00,0,Routine Check
+PT0102,Dr. Lee,Neurology,6/30/2025,11:45:00,11:40:00,12:26:00,0,Routine Check
+PT0103,Dr. Patel,Family Medicine,6/21/2025,13:15:00,13:42:00,13:57:00,0,Follow-up
+PT0104,Dr. Lee,Cardiology,6/21/2025,12:45:00,,,1,Follow-up
+PT0105,Dr. Patel,Oncology,6/26/2025,12:30:00,12:23:00,12:58:00,0,Routine Check
+PT0106,Dr. Lee,Neurology,6/30/2025,15:45:00,15:48:00,16:14:00,0,New Patient
+PT0107,Dr. Patel,Oncology,6/17/2025,9:45:00,10:03:00,10:36:00,0,Routine Check
+PT0108,Dr. Lee,Oncology,6/19/2025,12:00:00,,,1,Follow-up
+PT0109,Dr. Patel,Family Medicine,6/24/2025,8:00:00,8:23:00,8:58:00,0,Routine Check
+PT0110,Dr. Patel,Neurology,6/29/2025,14:00:00,13:59:00,14:52:00,0,Procedure
+PT0111,Dr. Patel,Oncology,6/27/2025,11:15:00,,,1,Follow-up
+PT0112,Dr. Smith,Oncology,6/22/2025,8:15:00,8:06:00,9:05:00,0,Routine Check
+PT0113,Dr. Johnson,Cardiology,6/27/2025,11:15:00,11:23:00,11:36:00,0,New Patient
+PT0114,Dr. Lee,Family Medicine,6/20/2025,12:30:00,12:32:00,13:29:00,0,New Patient
+PT0115,Dr. Johnson,Family Medicine,7/1/2025,8:00:00,8:24:00,8:39:00,0,Follow-up
+PT0116,Dr. Johnson,Cardiology,6/22/2025,13:30:00,13:20:00,13:52:00,0,Routine Check
+PT0117,Dr. Patel,Cardiology,6/23/2025,8:00:00,7:51:00,8:01:00,0,Routine Check
+PT0118,Dr. Patel,Neurology,6/28/2025,14:30:00,14:30:00,15:19:00,0,Follow-up
+PT0119,Dr. Patel,Cardiology,6/28/2025,14:30:00,14:46:00,15:16:00,0,Follow-up
+PT0120,Dr. Smith,Oncology,6/18/2025,8:45:00,8:41:00,9:00:00,0,New Patient
+PT0121,Dr. Johnson,Cardiology,6/21/2025,8:00:00,7:58:00,8:27:00,0,Routine Check
+PT0122,Dr. Lee,Oncology,6/29/2025,12:45:00,13:06:00,13:44:00,0,Follow-up
+PT0123,Dr. Johnson,Family Medicine,6/17/2025,15:15:00,15:30:00,16:17:00,0,Follow-up
+PT0124,Dr. Lee,Family Medicine,6/20/2025,11:30:00,11:27:00,12:27:00,0,Procedure
+PT0125,Dr. Lee,Family Medicine,6/26/2025,8:15:00,8:15:00,8:51:00,0,Procedure
+PT0126,Dr. Lee,Cardiology,6/26/2025,14:15:00,,,1,Routine Check
+PT0127,Dr. Patel,Neurology,6/19/2025,8:30:00,8:33:00,8:57:00,0,New Patient
+PT0128,Dr. Johnson,Family Medicine,6/26/2025,8:30:00,8:51:00,9:42:00,0,Routine Check
+PT0129,Dr. Smith,Neurology,6/24/2025,13:30:00,13:52:00,14:15:00,0,Procedure
+PT0130,Dr. Johnson,Family Medicine,6/24/2025,12:45:00,13:04:00,13:49:00,0,Procedure
+PT0131,Dr. Patel,Family Medicine,6/21/2025,10:00:00,10:12:00,10:22:00,0,Procedure
+PT0132,Dr. Patel,Family Medicine,6/20/2025,13:00:00,,,1,Routine Check
+PT0133,Dr. Johnson,Oncology,6/20/2025,11:15:00,11:45:00,12:13:00,0,Follow-up
+PT0134,Dr. Smith,Cardiology,6/22/2025,15:15:00,15:37:00,16:05:00,0,New Patient
+PT0135,Dr. Patel,Oncology,6/24/2025,10:15:00,10:37:00,11:34:00,0,Procedure
+PT0136,Dr. Smith,Oncology,6/29/2025,14:00:00,14:18:00,14:28:00,0,Routine Check
+PT0137,Dr. Lee,Oncology,6/25/2025,13:00:00,13:22:00,13:39:00,0,New Patient
+PT0138,Dr. Johnson,Family Medicine,6/23/2025,9:30:00,,,1,Follow-up
+PT0139,Dr. Patel,Cardiology,6/30/2025,11:45:00,11:47:00,12:09:00,0,Procedure
+PT0140,Dr. Lee,Oncology,6/21/2025,10:00:00,,,1,Procedure
+PT0141,Dr. Smith,Oncology,6/29/2025,9:45:00,9:38:00,10:14:00,0,Routine Check
+PT0142,Dr. Patel,Neurology,6/26/2025,10:00:00,,,1,Routine Check
+PT0143,Dr. Lee,Family Medicine,6/26/2025,8:15:00,8:18:00,8:57:00,0,Procedure
+PT0144,Dr. Smith,Cardiology,6/24/2025,12:00:00,,,1,Follow-up
+PT0145,Dr. Johnson,Neurology,6/28/2025,10:00:00,10:06:00,11:06:00,0,Follow-up
+PT0146,Dr. Lee,Cardiology,6/28/2025,15:30:00,15:49:00,16:11:00,0,Follow-up
+PT0147,Dr. Lee,Cardiology,6/21/2025,15:45:00,15:58:00,16:25:00,0,Routine Check
+PT0148,Dr. Johnson,Family Medicine,6/21/2025,10:45:00,,,1,Routine Check
+PT0149,Dr. Lee,Cardiology,6/28/2025,8:15:00,8:41:00,9:04:00,0,New Patient
+PT0150,Dr. Patel,Oncology,6/27/2025,9:45:00,,,1,Routine Check
+PT0151,Dr. Lee,Cardiology,6/17/2025,10:45:00,,,1,Routine Check
+PT0152,Dr. Lee,Cardiology,6/28/2025,12:15:00,,,1,New Patient
+PT0153,Dr. Smith,Cardiology,6/21/2025,13:30:00,13:42:00,14:05:00,0,New Patient
+PT0154,Dr. Patel,Neurology,6/21/2025,9:00:00,,,1,Routine Check
+PT0155,Dr. Patel,Cardiology,6/19/2025,8:00:00,8:22:00,8:55:00,0,Procedure
+PT0156,Dr. Smith,Neurology,6/20/2025,15:00:00,,,1,New Patient
+PT0157,Dr. Patel,Neurology,6/25/2025,15:15:00,15:28:00,16:12:00,0,New Patient
+PT0158,Dr. Johnson,Oncology,6/18/2025,12:15:00,,,1,New Patient
+PT0159,Dr. Lee,Neurology,6/26/2025,8:00:00,8:16:00,8:59:00,0,New Patient
+PT0160,Dr. Smith,Family Medicine,6/19/2025,13:30:00,,,1,Procedure
+PT0161,Dr. Patel,Oncology,6/28/2025,9:00:00,,,1,Procedure
+PT0162,Dr. Johnson,Family Medicine,6/21/2025,8:00:00,8:27:00,8:37:00,0,New Patient
+PT0163,Dr. Smith,Family Medicine,6/21/2025,9:45:00,10:07:00,11:01:00,0,New Patient
+PT0164,Dr. Johnson,Neurology,6/20/2025,8:15:00,8:16:00,8:29:00,0,New Patient
+PT0165,Dr. Lee,Neurology,6/28/2025,11:30:00,11:59:00,12:12:00,0,Follow-up
+PT0166,Dr. Johnson,Oncology,6/24/2025,9:30:00,9:21:00,9:55:00,0,Follow-up
+PT0167,Dr. Johnson,Neurology,6/28/2025,9:30:00,9:43:00,10:10:00,0,Routine Check
+PT0168,Dr. Smith,Family Medicine,6/23/2025,14:00:00,14:26:00,15:04:00,0,Procedure
+PT0169,Dr. Patel,Family Medicine,7/1/2025,9:15:00,9:32:00,9:53:00,0,New Patient
+PT0170,Dr. Smith,Oncology,6/22/2025,15:45:00,15:41:00,16:25:00,0,Procedure
+PT0171,Dr. Smith,Oncology,6/27/2025,13:30:00,13:43:00,13:53:00,0,Routine Check
+PT0172,Dr. Patel,Family Medicine,6/27/2025,11:00:00,10:59:00,11:24:00,0,Routine Check
+PT0173,Dr. Patel,Family Medicine,6/20/2025,9:45:00,9:55:00,10:48:00,0,Follow-up
+PT0174,Dr. Smith,Cardiology,6/22/2025,13:45:00,13:52:00,14:12:00,0,New Patient
+PT0175,Dr. Smith,Oncology,6/27/2025,14:15:00,14:23:00,14:50:00,0,Procedure
+PT0176,Dr. Johnson,Neurology,6/28/2025,15:45:00,16:07:00,17:01:00,0,New Patient
+PT0177,Dr. Smith,Oncology,6/20/2025,14:15:00,14:18:00,15:17:00,0,New Patient
+PT0178,Dr. Lee,Cardiology,6/25/2025,14:45:00,14:59:00,15:50:00,0,New Patient
+PT0179,Dr. Johnson,Cardiology,6/25/2025,13:00:00,12:50:00,13:22:00,0,New Patient
+PT0180,Dr. Lee,Family Medicine,6/17/2025,10:15:00,,,1,New Patient
+PT0181,Dr. Smith,Family Medicine,6/25/2025,10:30:00,10:40:00,11:06:00,0,Procedure
+PT0182,Dr. Lee,Neurology,6/19/2025,15:15:00,15:22:00,16:08:00,0,New Patient
+PT0183,Dr. Johnson,Oncology,7/1/2025,15:15:00,15:31:00,15:59:00,0,Follow-up
+PT0184,Dr. Johnson,Cardiology,6/25/2025,9:30:00,9:55:00,10:30:00,0,Routine Check
+PT0185,Dr. Smith,Cardiology,6/29/2025,15:45:00,15:59:00,16:47:00,0,Follow-up
+PT0186,Dr. Patel,Family Medicine,6/17/2025,8:45:00,8:35:00,8:54:00,0,Procedure
+PT0187,Dr. Patel,Oncology,6/30/2025,15:30:00,15:55:00,16:24:00,0,Routine Check
+PT0188,Dr. Smith,Cardiology,6/22/2025,10:45:00,10:43:00,10:58:00,0,New Patient
+PT0189,Dr. Smith,Cardiology,6/29/2025,9:15:00,9:11:00,9:23:00,0,Routine Check
+PT0190,Dr. Patel,Oncology,6/28/2025,14:15:00,14:28:00,15:05:00,0,Follow-up
+PT0191,Dr. Johnson,Cardiology,6/28/2025,9:15:00,9:41:00,10:26:00,0,Procedure
+PT0192,Dr. Johnson,Cardiology,7/1/2025,8:00:00,8:03:00,8:14:00,0,Procedure
+PT0193,Dr. Smith,Neurology,6/26/2025,13:15:00,,,1,New Patient
+PT0194,Dr. Patel,Oncology,6/27/2025,13:00:00,12:54:00,13:14:00,0,Procedure
+PT0195,Dr. Smith,Family Medicine,6/19/2025,12:15:00,12:12:00,12:49:00,0,Follow-up
+PT0196,Dr. Smith,Cardiology,6/28/2025,9:30:00,10:00:00,10:26:00,0,Routine Check
+PT0197,Dr. Smith,Cardiology,6/28/2025,14:15:00,14:42:00,15:21:00,0,Routine Check
+PT0198,Dr. Johnson,Oncology,6/29/2025,13:30:00,13:25:00,14:23:00,0,Follow-up
+PT0199,Dr. Patel,Oncology,6/19/2025,15:30:00,15:20:00,16:16:00,0,Routine Check
+PT0200,Dr. Lee,Cardiology,6/18/2025,11:00:00,11:04:00,11:36:00,0,Follow-up
