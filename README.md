@@ -20,6 +20,7 @@ To simulate how a BI Analyst might use Epic Clarity or Caboodle data to identify
 | `generate_mock_epic_data.py`         | Python script used to create the mock Epic dataset         |
 | `mock_epic_appointment_data.csv`     | Simulated outpatient appointment data                      |
 | `epic_power_bi_visual.pbix`          | Power BI dashboard file showing analysis and visuals       |
+![Dashboard Screenshot](dashboard_screenshot.png)
 
 ## Key Metrics and Visuals
 
